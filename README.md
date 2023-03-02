@@ -46,12 +46,12 @@
 
 ---
 
-+ [北大工学院机械常见问题解答(必读)]
-+ [工学院机械必读二（更新与补充）]
-+ [工学院专硕百问]
-+ [北大工学院机械(MID)常见问题解答]
-+ [2022夏令营机械研究方向说明-官方]
-+ [北京大学工学院研究方向简单分析-小耗子]
++ [北大工学院机械常见问题解答(必读)](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E4%BB%8B%E7%BB%8D/%E5%8C%97%E5%A4%A7%E5%B7%A5%E5%AD%A6%E9%99%A2%E6%9C%BA%E6%A2%B0%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94(%E5%BF%85%E8%AF%BB).pdf)
++ [工学院机械必读二（更新与补充）](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E4%BB%8B%E7%BB%8D/%E5%B7%A5%E5%AD%A6%E9%99%A2%E6%9C%BA%E6%A2%B0%E5%BF%85%E8%AF%BB%E4%BA%8C%EF%BC%88%E6%9B%B4%E6%96%B0%E4%B8%8E%E8%A1%A5%E5%85%85%EF%BC%89.pdf)
++ [工学院专硕百问](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E4%BB%8B%E7%BB%8D/%E5%B7%A5%E5%AD%A6%E9%99%A2%E4%B8%93%E7%A1%95%E7%99%BE%E9%97%AE.pdf)
++ [北大工学院机械(MID)常见问题解答](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E4%BB%8B%E7%BB%8D/%E5%8C%97%E5%A4%A7%E5%B7%A5%E5%AD%A6%E9%99%A2%E6%9C%BA%E6%A2%B0(MID)%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94.pdf)
++ [2022夏令营机械研究方向说明-官方](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E4%BB%8B%E7%BB%8D/2022%E5%A4%8F%E4%BB%A4%E8%90%A5%E6%9C%BA%E6%A2%B0%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91%E8%AF%B4%E6%98%8E-%E5%AE%98%E6%96%B9.pdf)
++ [北京大学工学院研究方向简单分析-小耗子](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E4%BB%8B%E7%BB%8D/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%B7%A5%E5%AD%A6%E9%99%A2%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91%E7%AE%80%E5%8D%95%E5%88%86%E6%9E%90-%E5%B0%8F%E8%80%97%E5%AD%90.pdf)
 
 ## 初始篇
 
@@ -114,7 +114,7 @@
 
 + [夏令营优秀营员](https://www.coe.pku.edu.cn/degree/notice/7047.html)
 + [复试名单](https://www.coe.pku.edu.cn/degree/notice/7048.html)
-+ [拟录取]()
++ [拟录取](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E8%80%83%E7%A0%94%E5%BD%95%E5%8F%96%E6%83%85%E5%86%B5/2022/2022%E5%B9%B4%E5%B7%A5%E5%AD%A6%E9%99%A2%E4%BF%9D%E7%A0%94%E6%8B%9F%E5%BD%95%E5%8F%96%E5%90%8D%E5%8D%95.pdf)
 
 #### 2021录取情况
 
@@ -126,14 +126,14 @@
 
 ##### 2021保研
 
-+ [拟录取]()
++ [拟录取](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E8%80%83%E7%A0%94%E5%BD%95%E5%8F%96%E6%83%85%E5%86%B5/2021/2021%E5%B9%B4%E5%B7%A5%E9%99%A2%E4%BF%9D%E7%A0%94%E6%8B%9F%E5%BD%95%E5%8F%96%E5%90%8D%E5%8D%95.pdf)
 
 #### 2020录取情况
 
 ##### 2020考研
 
-+ [复试名单]()
-+ [拟录取]()
++ [复试名单](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E8%80%83%E7%A0%94%E5%BD%95%E5%8F%96%E6%83%85%E5%86%B5/2020/2020%E5%B9%B4%E5%B7%A5%E9%99%A2%E8%80%83%E7%A0%94%E6%8B%9F%E5%A4%8D%E8%AF%95%E5%90%8D%E5%8D%95.pdf)
++ [拟录取](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E8%80%83%E7%A0%94%E5%BD%95%E5%8F%96%E6%83%85%E5%86%B5/2020/2020%E5%B9%B4%E5%B7%A5%E9%99%A2%E8%80%83%E7%A0%94%E6%8B%9F%E5%BD%95%E5%8F%96%E5%90%8D%E5%8D%95.pdf)
 
 ##### 2020保研
 
@@ -147,26 +147,26 @@
 
 ### 2022
 
-+ [2022北大工学院375经验贴-k]
-+ [生物跨计算机 376分经验贴]
-+ [2022北大工学院382经验贴——阿汀]
-+ [2022北大工学院354经验贴—土豆雷]
-+ [2022北大工院343教训贴 - 昨天依舊風平浪靜]
-+ [22北大工院跨考经验—flyx]
-+ [2022北大工院考研经验-小耗子]
++ [2022北大工学院375经验贴-k](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E7%BB%8F%E9%AA%8C%E8%B4%B4/2022/2022%E5%8C%97%E5%A4%A7%E5%B7%A5%E5%AD%A6%E9%99%A2375%E7%BB%8F%E9%AA%8C%E8%B4%B4-k.pdf)
++ [生物跨计算机 376分经验贴](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E7%BB%8F%E9%AA%8C%E8%B4%B4/2022/%E7%94%9F%E7%89%A9%E8%B7%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%20376%E5%88%86%E7%BB%8F%E9%AA%8C%E8%B4%B4.pdf)
++ [2022北大工学院382经验贴——阿汀](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E7%BB%8F%E9%AA%8C%E8%B4%B4/2022/2022%E5%8C%97%E5%A4%A7%E5%B7%A5%E5%AD%A6%E9%99%A2382%E7%BB%8F%E9%AA%8C%E8%B4%B4%E2%80%94%E2%80%94%E9%98%BF%E6%B1%80.pdf)
++ [2022北大工学院354经验贴—土豆雷](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E7%BB%8F%E9%AA%8C%E8%B4%B4/2022/2022%E5%8C%97%E5%A4%A7%E5%B7%A5%E5%AD%A6%E9%99%A2354%E7%BB%8F%E9%AA%8C%E8%B4%B4%E2%80%94%E5%9C%9F%E8%B1%86%E9%9B%B7.pdf)
++ [2022北大工院343教训贴 - 昨天依舊風平浪靜](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E7%BB%8F%E9%AA%8C%E8%B4%B4/2022/2022%E5%8C%97%E5%A4%A7%E5%B7%A5%E9%99%A2343%E6%95%99%E8%AE%AD%E8%B4%B4%20-%20%E6%98%A8%E5%A4%A9%E4%BE%9D%E8%88%8A%E9%A2%A8%E5%B9%B3%E6%B5%AA%E9%9D%9C.pdf)
++ [22北大工院跨考经验—flyx](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E7%BB%8F%E9%AA%8C%E8%B4%B4/2022/22%E5%8C%97%E5%A4%A7%E5%B7%A5%E9%99%A2%E8%B7%A8%E8%80%83%E7%BB%8F%E9%AA%8C%E2%80%94flyx.pdf)
++ [2022北大工院考研经验-小耗子](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E7%BB%8F%E9%AA%8C%E8%B4%B4/2022/2022%E5%8C%97%E5%A4%A7%E5%B7%A5%E9%99%A2%E8%80%83%E7%A0%94%E7%BB%8F%E9%AA%8C-%E5%B0%8F%E8%80%97%E5%AD%90.pdf)
 
 ### 2021
 
-+ [2021北大工学院387分经验贴]
-+ [2021北大工学院专业课140复习经验贴]
++ [2021北大工学院387分经验贴](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E7%BB%8F%E9%AA%8C%E8%B4%B4/2021/2021%E5%8C%97%E5%A4%A7%E5%B7%A5%E5%AD%A6%E9%99%A2387%E5%88%86%E7%BB%8F%E9%AA%8C%E8%B4%B4.pdf)
++ [2021北大工学院专业课140复习经验贴](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E7%BB%8F%E9%AA%8C%E8%B4%B4/2021/2021%E5%8C%97%E5%A4%A7%E5%B7%A5%E5%AD%A6%E9%99%A2%E4%B8%93%E4%B8%9A%E8%AF%BE140%E5%A4%8D%E4%B9%A0%E7%BB%8F%E9%AA%8C%E8%B4%B4.pdf)
 
 ### 2020
 
-+ [2020北大工学院机械考研综合排名第一经验（计算机专业课）]
++ [2020北大工学院机械考研综合排名第一经验（计算机专业课）](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E7%BB%8F%E9%AA%8C%E8%B4%B4/2020/2020%E5%8C%97%E5%A4%A7%E5%B7%A5%E5%AD%A6%E9%99%A2%E6%9C%BA%E6%A2%B0%E8%80%83%E7%A0%94%E7%BB%BC%E5%90%88%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80%E7%BB%8F%E9%AA%8C%EF%BC%88%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%AF%BE%EF%BC%89.pdf)
 
 ### 2019
 
-+ [2019北大工学院工业设计工程数一计算机方向经验贴]
++ [2019北大工学院工业设计工程数一计算机方向经验贴](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E7%BB%8F%E9%AA%8C%E8%B4%B4/2019/2019%E5%8C%97%E5%A4%A7%E5%B7%A5%E5%AD%A6%E9%99%A2%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1%E5%B7%A5%E7%A8%8B%E6%95%B0%E4%B8%80%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%96%B9%E5%90%91%E7%BB%8F%E9%AA%8C%E8%B4%B4.pdf)
 
 ## 致谢
 
