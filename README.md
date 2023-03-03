@@ -141,7 +141,7 @@
 
 ---
 
-+ [复试指北]
++ [复试指北](https://github.com/StephenYuan7/See_you_in_PKU_COE/blob/main/%E5%A4%8D%E8%AF%95/%E5%A4%8D%E8%AF%95%E6%8C%87%E5%8C%97.pdf)
 
 ## 经验篇
 
