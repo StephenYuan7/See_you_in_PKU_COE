@@ -8,7 +8,7 @@
 
 ---
 
-前言：选择大于努力！选错了也不要后悔，认真考虑清楚再做决定。See_you_in_PKU_COE！ ——by 小耗子
+前言：选择大于努力！过往的种子会在某一刻开花结果！See_you_in_PKU_COE！ ——by 小耗子
 
 > 本人本科就读于北京邮电大学计算机学院，考研前期一直关注着我邮的计算机考研信息（https://github.com/ningzimu/See_you_in_BUPT) ，学长学姐的资料帮助我很多，现有幸就读于工院，遂也模仿该Git，对工院一些杂乱的信息进行汇总
 
@@ -139,7 +139,7 @@
 
 + [夏令营优秀营员](https://www.coe.pku.edu.cn/degree/notice/11591.html)
 + [复试名单](https://www.coe.pku.edu.cn/degree/notice/11664.html)
-+ [拟录取]()
++ [拟录取](https://github.com/StephenYuan7/See_you_in_PKU_COE/blob/main/%E8%80%83%E7%A0%94%E5%BD%95%E5%8F%96%E6%83%85%E5%86%B5/2023/2023%E5%B9%B4%E5%B7%A5%E5%AD%A6%E9%99%A2%E4%BF%9D%E7%A0%94%E6%8B%9F%E5%BD%95%E5%8F%96%E5%90%8D%E5%8D%95.pdf)
 
 #### 2022录取情况
 
@@ -161,9 +161,9 @@
 
 ##### 2021考研
 
-复试最低分433，最高分321，均分374
+复试最低分321，最高分433，均分374
 
-+ [拟录取](https://www.coe.pku.edu.cn/degree/notice/11359.html)
++ [拟录取](https://www.coe.pku.edu.cn/degree/notice/7044.html)
 
 ##### 2021保研
 
