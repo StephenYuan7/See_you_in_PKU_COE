@@ -86,7 +86,7 @@
 
 ---
 
-+ [北大工学院机械常见问题.v2.0]()
++ [北大工学院机械常见问题.v2.0](https://github.com/StephenYuan7/See_you_in_PKU_COE/blob/main/%E4%BB%8B%E7%BB%8D/%E5%8C%97%E5%A4%A7%E5%B7%A5%E5%AD%A6%E9%99%A2%E6%9C%BA%E6%A2%B0%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.v2.0.pdf)
 + [北大工学院机械常见问题解答(必读)](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E4%BB%8B%E7%BB%8D/%E5%8C%97%E5%A4%A7%E5%B7%A5%E5%AD%A6%E9%99%A2%E6%9C%BA%E6%A2%B0%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94(%E5%BF%85%E8%AF%BB).pdf)
 + [工学院机械必读二（更新与补充）](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E4%BB%8B%E7%BB%8D/%E5%B7%A5%E5%AD%A6%E9%99%A2%E6%9C%BA%E6%A2%B0%E5%BF%85%E8%AF%BB%E4%BA%8C%EF%BC%88%E6%9B%B4%E6%96%B0%E4%B8%8E%E8%A1%A5%E5%85%85%EF%BC%89.pdf)
 + [2022夏令营机械研究方向说明-官方](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E4%BB%8B%E7%BB%8D/2022%E5%A4%8F%E4%BB%A4%E8%90%A5%E6%9C%BA%E6%A2%B0%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91%E8%AF%B4%E6%98%8E-%E5%AE%98%E6%96%B9.pdf)
