@@ -86,6 +86,7 @@
 
 ---
 
++ [北大工学院机械可选导师](https://www.coe.pku.edu.cn/degree/7325.html?_isa=1)
 + [北大工学院机械常见问题.v2.0](https://github.com/StephenYuan7/See_you_in_PKU_COE/blob/main/%E4%BB%8B%E7%BB%8D/%E5%8C%97%E5%A4%A7%E5%B7%A5%E5%AD%A6%E9%99%A2%E6%9C%BA%E6%A2%B0%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.v2.0.pdf)
 + [北大工学院机械常见问题解答(必读)](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E4%BB%8B%E7%BB%8D/%E5%8C%97%E5%A4%A7%E5%B7%A5%E5%AD%A6%E9%99%A2%E6%9C%BA%E6%A2%B0%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94(%E5%BF%85%E8%AF%BB).pdf)
 + [工学院机械必读二（更新与补充）](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E4%BB%8B%E7%BB%8D/%E5%B7%A5%E5%AD%A6%E9%99%A2%E6%9C%BA%E6%A2%B0%E5%BF%85%E8%AF%BB%E4%BA%8C%EF%BC%88%E6%9B%B4%E6%96%B0%E4%B8%8E%E8%A1%A5%E5%85%85%EF%BC%89.pdf)
@@ -134,6 +135,12 @@
 #### 2023录取情况
 
 ##### 2023考研
+
+录取最低分311，最高分421，均分357
+
++ [复试名单](https://www.coe.pku.edu.cn/degree/notice/11945.html)
++ [复试成绩](https://www.coe.pku.edu.cn/degree/notice/11975.html)
++ [拟录取](https://www.coe.pku.edu.cn/degree/notice/11984.html)
 
 ##### 2023保研
 
