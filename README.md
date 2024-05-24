@@ -21,6 +21,9 @@
       - [北京大学招生目录](#北京大学招生目录)
       - [工学院招生目录](#工学院招生目录)
     - [录取情况](#录取情况)
+      - [2024录取情况](#2024录取情况)
+        - [2024考研](#2024考研)
+        - [2024保研](#2024保研)
       - [2023录取情况](#2023录取情况)
         - [2023考研](#2023考研)
         - [2023保研](#2023保研)
@@ -35,6 +38,8 @@
         - [2020保研](#2020保研)
   - [复试篇](#复试篇)
   - [经验篇](#经验篇)
+    - [2024](https://github.com/StephenYuan7/See_you_in_PKU_COE/tree/main/%E7%BB%8F%E9%AA%8C%E8%B4%B4/2024)
+    - [2023](https://github.com/StephenYuan7/See_you_in_PKU_COE/tree/main/%E7%BB%8F%E9%AA%8C%E8%B4%B4/2023)
     - [2022](#2022)
     - [2021](#2021)
     - [2020](#2020)
@@ -90,7 +95,7 @@
 + [北大工学院机械常见问题.v2.0](https://github.com/StephenYuan7/See_you_in_PKU_COE/blob/main/%E4%BB%8B%E7%BB%8D/%E5%8C%97%E5%A4%A7%E5%B7%A5%E5%AD%A6%E9%99%A2%E6%9C%BA%E6%A2%B0%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.v2.0.pdf)
 + [北大工学院机械常见问题解答(必读)](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E4%BB%8B%E7%BB%8D/%E5%8C%97%E5%A4%A7%E5%B7%A5%E5%AD%A6%E9%99%A2%E6%9C%BA%E6%A2%B0%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94(%E5%BF%85%E8%AF%BB).pdf)
 + [工学院机械必读二（更新与补充）](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E4%BB%8B%E7%BB%8D/%E5%B7%A5%E5%AD%A6%E9%99%A2%E6%9C%BA%E6%A2%B0%E5%BF%85%E8%AF%BB%E4%BA%8C%EF%BC%88%E6%9B%B4%E6%96%B0%E4%B8%8E%E8%A1%A5%E5%85%85%EF%BC%89.pdf)
-+ [2022夏令营机械研究方向说明-官方](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E4%BB%8B%E7%BB%8D/2022%E5%A4%8F%E4%BB%A4%E8%90%A5%E6%9C%BA%E6%A2%B0%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91%E8%AF%B4%E6%98%8E-%E5%AE%98%E6%96%B9.pdf)
++ [2023夏令营机械研究方向说明-官方](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E4%BB%8B%E7%BB%8D/2023%E5%A4%8F%E4%BB%A4%E8%90%A5%E6%9C%BA%E6%A2%B0%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91%E8%AF%B4%E6%98%8E-%E5%AE%98%E6%96%B9.pdf)
 + [北京大学工学院研究方向简单分析-小耗子](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E4%BB%8B%E7%BB%8D/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%B7%A5%E5%AD%A6%E9%99%A2%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91%E7%AE%80%E5%8D%95%E5%88%86%E6%9E%90-%E5%B0%8F%E8%80%97%E5%AD%90.pdf)
 + ~~[工学院专硕百问(过时)](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E4%BB%8B%E7%BB%8D/%E5%B7%A5%E5%AD%A6%E9%99%A2%E4%B8%93%E7%A1%95%E7%99%BE%E9%97%AE.pdf)~~
 + ~~[北大工学院机械(MID)常见问题解答(过时)](https://github.com/StephenYuan7/See_you_in_COE/blob/main/%E4%BB%8B%E7%BB%8D/%E5%8C%97%E5%A4%A7%E5%B7%A5%E5%AD%A6%E9%99%A2%E6%9C%BA%E6%A2%B0(MID)%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94.pdf)~~
@@ -120,6 +125,7 @@
 
 #### 工学院招生目录
 
++ [2024](https://admission.pku.edu.cn/zsxx/sszs/zyml/2024/yx/zsml_ss_yx_00086.pdf)
 + [2023](https://admission.pku.edu.cn/zsxx/sszs/zyml/2023/yx/zsml_ss_yx_00086.pdf)
 + [2022](https://admission.pku.edu.cn/zsxx/sszs/zyml/2022/yx/zsml_ss_yx_00086.pdf)
 + [2021](https://admission.pku.edu.cn/zsxx/sszs/zyml/2021/yx/zsml_ss_yx_00086.pdf)
@@ -131,6 +137,20 @@
 ### 录取情况
 
 部分统计来自 公众号：研考数据整理分析
+
+#### 2024录取情况
+
+##### 2024考研
+
++ [复试名单](https://www.coe.pku.edu.cn/degree/notice/12689.html)
++ [复试成绩](https://www.coe.pku.edu.cn/degree/notice/12719.html)
++ [拟录取](https://www.coe.pku.edu.cn/graduate/notice/12726.html)
+
+##### 2024保研
+
++ [夏令营优秀营员](https://www.coe.pku.edu.cn/announcements/college/12241.html)
++ [复试名单](https://www.coe.pku.edu.cn/announcements/college/12295.html)
++ [拟录取](https://github.com/StephenYuan7/See_you_in_PKU_COE/blob/main/%E8%80%83%E7%A0%94%E5%BD%95%E5%8F%96%E6%83%85%E5%86%B5/2024/2024%E5%B9%B4%E5%B7%A5%E5%AD%A6%E9%99%A2%E4%BF%9D%E7%A0%94%E6%8B%9F%E5%BD%95%E5%8F%96%E5%90%8D%E5%8D%95.pdf)
 
 #### 2023录取情况
 
